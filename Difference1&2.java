@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Difference1&2{
+public class Difference1{
 public static void main(String[] arg){
 Scanner input = new Scanner(System.in);
 System.out.print("enter correct number ");
@@ -21,6 +21,7 @@ else{
 
 
 }
+
 
 
 
